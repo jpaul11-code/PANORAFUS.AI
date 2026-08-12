@@ -115,6 +115,7 @@ function App() {
 
       <Modal
         name="launch-checklist"
+        title="Launch checklist"
         header={
           <div>
             <p className="text-xs font-semibold uppercase tracking-[0.2em] text-cyan-200">
